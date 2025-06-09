@@ -28,7 +28,7 @@ En este proyecto se analizaron datos de rendimiento de operadores de un centro d
 - Se identificaron operadores con desempeño bajo, clasificados en función de métricas clave.
 - Se propusieron acciones correctivas como capacitación y redistribución de tareas.
 - El dashboard permitió monitorear en tiempo real el comportamiento de los operadores.
-  (veáse en: https://app.powerbi.com/view?r=eyJrIjoiYTFmMjNmYjQtYWZkMy00YjBhLTk0MWQtNDBjMDhlYmE1M2UzIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9)
+  (veáse en: https://app.powerbi.com/view?=eyJrIjoiYTFmMjNmYjQtYWZkMy00YjBhLTk0MWQtNDBjMDhlYmE1M2UzIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9)
 
 ## Sobre mí
 
