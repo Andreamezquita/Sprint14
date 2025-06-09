@@ -1,4 +1,4 @@
-# Detección de Operadores Ineficientes mediante Análisis de Datos – Sprint 14 (Tripleten Bootcamp)
+# Detección de Operadores Ineficientes mediante Análisis de Datos
 
 ## Descripción del proyecto
 
